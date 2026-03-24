@@ -1,0 +1,9 @@
+Hello Flex, 
+
+This is my test file. I hope that you can do the following appropriately: 
+
+1. Please match every newline and count it as a row.
+2. Please look through every character and match the vowels accordingly. This is both lower and uppercase vowels.
+3. And finally, please match every character and add it to a count of the characters in the file.
+
+I hope you find a reasonable solution. Happy flexing!
